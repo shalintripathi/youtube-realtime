@@ -36,27 +36,3 @@ Embedding the counter on your website is a cool way to display the real time cou
 
 ![YouTube Realtime Embed](res/embeds.png)<br/>
 *YouTube Realtime Embed*
-
-# Try it yourself!
-
-* [Sky Does Minecraft](https://akshatmittal.com/youtube-realtime/#!/SkyDoesMinecraft "Sky Does Minecraft's Realtime Subscriber Count on YouTube")
-* [Justin Bieber](https://akshatmittal.com/youtube-realtime/#!/UCHkj014U2CQ2Nv0UZeYpE_A "Justin Bieber's Realtime Subscriber Count on YouTube")
-* [Smosh](https://akshatmittal.com/youtube-realtime/#!/Smosh "Smosh's Realtime Subscriber Count on YouTube")
-* [Marques Brownlee](https://akshatmittal.com/youtube-realtime/#!/MarquesBrownlee "Marques Brownlee's Realtime Subscriber Count on YouTube")
-* [YouTube Spotlight](https://akshatmittal.com/youtube-realtime/#!/UCBR8-60-B28hp2BmDPdntcQ "YouTube Spotlight's Realtime Subscriber Count on YouTube")
-
-# Support
-
-If you would like to support this project, please consider donating via [PayPal](https://paypal.me/AkshatMittal/25USD) or [Instamojo (India)](https://imjo.in/26KdPa) to keep this tool free!
-
-# License
-
-YouTube Realtime Copyright (C) 2018 [Akshat Mittal](https://akshatmittal.com/)
-
-You may freely modify the code for personal use. You are not allowed to redistribute the project without attribution and credits or prior permission. Commercial use without permission is prohibited.
-
-This project uses a part of code from WrapPixel.
-
-# Disclaimer
-
-The project forks and code by default redirects back to this repo. You can view the instructions to modify the code [here](https://github.com/akshatmittal/youtube-realtime/issues/14#issuecomment-247537299).
